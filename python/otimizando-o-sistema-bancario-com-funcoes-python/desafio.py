@@ -2,10 +2,10 @@ menu = """
 [d] Depositar
 [s] Sacar
 [e] Extrato
-[q] sair
 [nu] Novo Usuário
 [nc] Nova Conta
 [lc] Listar Contas
+[q] sair
 
 =>"""
 
